@@ -1,5 +1,1 @@
-{
-	"version": "0.0.1",
-	"description": "Console Wrap",
-	"url": "https://github.com/unknownuser88/consolewrap"
-}
+{"dependencies": [], "platforms": ["*"], "description": "Prints Dumper of selected variable", "sublime_text": "*", "url": "https://github.com/barkonar/dumperwrap", "version": "0.0.1"}

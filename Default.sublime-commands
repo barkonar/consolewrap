@@ -1,6 +1,6 @@
 [
     {
-        "caption": "consolewrap",
-        "command": "consolewrap"
+        "caption": "dumperwrap",
+        "command": "dumperwrap"
     }
 ]
