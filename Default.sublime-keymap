@@ -1,5 +1,5 @@
 [
 
-    { "keys": ["ctrl+alt+shift+q"], "command": "dumperwrap"}
+    { "keys": ["alt+shift+q"], "command": "dumperwrap"}
 
 ]
